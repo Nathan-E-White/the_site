@@ -1,0 +1,9 @@
+{
+  "name": "the_site",
+  "version": "1.0.0",
+  "description": "Code for the site.",
+  "main": "index.js",
+  "author": "Enrique Shockwave",
+  "license": "MIT",
+  "private": true
+}
